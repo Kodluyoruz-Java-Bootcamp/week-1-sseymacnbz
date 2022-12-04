@@ -1,0 +1,23 @@
+ 3) Java bu özelliğini her işletim sistemi için özel olarak tasarlanan JVM'ler sayesinde sağlar.
+ 	JVM'ler kendilerine derlenmiş bir şekilde gelen .class dosyalarını işlerler. 
+ 	
+ 4) Java'da 2 tür veri tipi vardır: Değer tip ve referans tip
+ 	Değer tipler primitif tip olarak da tanımlanabilir. Bunlara örnek olarak byte, short, int,
+ 	long, float, double, boolean, char verilebilir. Bu veri tiplerinden oluşturulan değişkenler
+ 	'Stack' isimli bellekte saklanır. Burada saklanan değişkenler kendi isimleri ve değerleri ile saklanır.
+ 	
+ 	Referans tipler ise 2 farklı bellekte saklanır: Stack ve Heap. Stack belleğinde referans tipimizin ismi
+ 	adresiyle beraber saklanır. Bu adresler de Heap belleğindeki o referans tipimize ait veriyi adresle beraber
+ 	tutar.
+ 	
+ 	Ödevler ile ilgili resimlerini bizzat paint'ten çizdiğim Medium yazılarıma göz atmalısınız :)
+ 	https://medium.com/@sultanseymacanbaz/değer-ve-referans-tipleri-anlamak-e267273a9ad2
+ 
+ 
+ 5)  https://medium.com/@sultanseymacanbaz/immutable-bi%CC%87r-class-stringler-8aa5441ae57b
+ 
+ 
+ 6)  https://medium.com/@sultanseymacanbaz/java-neden-%C3%A7oklu-kalitimi-desteklemez-42cd9c5b97a6
+ 
+ 
+ 7)  https://medium.com/@sultanseymacanbaz/build-tool-nedi%CC%87r-java-build-toollari-nelerdi%CC%87r-ba5efb588f05	 
